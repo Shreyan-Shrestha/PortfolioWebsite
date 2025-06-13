@@ -2,7 +2,7 @@
 SeepMela 2082 Team B
 
 Members:
-Shreyan Shrestha
-Nabin Khatiwada
-Dipak Kumar Chaudhary
-Bishal Rasaili
+1.Shreyan Shrestha
+2.Nabin Khatiwada
+3.Dipak Kumar Chaudhary
+4.Bishal Rasaili
